@@ -44,7 +44,7 @@ public class ParkingLot {
         * 2. Create a new Parking lot.
         * 3. Add a floor to a parking lot.
         * 4. Add a entry/exit gate to a parking lot.
-        *
+        * Help: https://github.com/Naman-Bhalla/parkingLotJuly2022/blob/master/src/main/java/com/scaler/parkinglot/Client.java
         * */
     }
 }
